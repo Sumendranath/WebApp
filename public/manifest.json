@@ -1,1 +1,22 @@
+{
+  "short_name": "Fitness Tracker",
+  "name": "Daily Fitness Tracker App",
+  "description": "Track your daily fitness progress, including weight, water intake, energy level, and more.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007BFF",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
 
